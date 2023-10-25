@@ -1,0 +1,15 @@
+{
+  "name": "expressbasics",
+  "version": "1.0.0",
+  "description": "* This is a basic set up for an JS app using Express ``` npm init -y ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
